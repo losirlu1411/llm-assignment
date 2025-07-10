@@ -5,14 +5,14 @@ This project demonstrates how to fine-tune a BERT-based language model to classi
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - `llm assignment.ipynb`: Jupyter Notebook containing the full code for training and evaluating the sentiment classification model.
 - `README.md`: Project overview and instructions (this file).
 
 ---
 
-## 📚 Dataset
+##  Dataset
 
 - **Name**: IMDb Movie Reviews  
 - **Source**: [Hugging Face Datasets](https://huggingface.co/datasets/imdb)  
@@ -20,7 +20,7 @@ This project demonstrates how to fine-tune a BERT-based language model to classi
 
 ---
 
-## 🧠 Model
+## Model
 
 - **Base Model**: `bert-base-uncased`
 - **Library**: Hugging Face Transformers
@@ -29,7 +29,7 @@ This project demonstrates how to fine-tune a BERT-based language model to classi
 
 ---
 
-## 🛠️ Key Steps
+## Key Steps
 
 1. Load IMDb dataset and clean it using Pandas
 2. Perform Exploratory Data Analysis (EDA)
@@ -45,7 +45,7 @@ Example prediction:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Install Dependencies
 
