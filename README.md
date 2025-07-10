@@ -1,5 +1,5 @@
 # llm-assignment
-# Sentiment Analysis with BERT on IMDb Movie Reviews 🎬📊
+# Sentiment Analysis with BERT on IMDb Movie Reviews
 
 This project demonstrates how to fine-tune a BERT-based language model to classify movie reviews from the IMDb dataset as either **positive** or **negative**. The notebook includes preprocessing, tokenization, model training, evaluation, and inference using Hugging Face Transformers.
 
